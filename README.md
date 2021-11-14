@@ -3,7 +3,7 @@ This repository contains the files and deliverables for the project of the cours
 Our team name is: HCI_0102_1580_1618_1629.
 
 ## User Interface:
-To view our UI, click [Personalized Fitness Coach Website](https://hcifitnesstrainer.github.io/)
+To view our UI, click [Personalized Fitness Coach Website](https://hcifitnesstrainer.github.io/) (Upload in progress)
 
 ## Background:
 <p>With the advent of social media, the prevalence of people with a better physique is omnipresent. On top of which, the multiple directions that college life pulls us in, implies that some aspects of our lives will face the short end of the stick. It is often that physical exercises endure this. The inherent property of physical growth dictates the persistence in the field that cannot be substituted by just an extra long session in the gym. We personally believe that the most common hurdles for people not exercising is the fight to get started, as once we do start, with the influx of endorphins it becomes a smooth sailing.</p><br>
